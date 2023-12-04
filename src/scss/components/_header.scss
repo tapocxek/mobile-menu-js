@@ -1,0 +1,19 @@
+.header {
+  min-height: 100px;
+  padding: 25px 0;
+  box-shadow: 0px 0px 4px 4px rgb(188, 186, 186);
+}
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav {
+  display: flex;
+  align-items: center;
+}
+.nav__list {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
